@@ -1,0 +1,113 @@
+:root {
+    --dark-1: #0f0f0f;
+    --dark-2: #191919;
+    --dark-3: #2a2a2a;
+    --light-1: #ffffff;
+    --light-2: #f8f8f8;
+    --light-3: #cccccc;
+    --main-1: #1200ff;
+    --main-2: #00e5ff;
+}
+
+.footer-iconTop button {
+    width: 10rem;
+    height: 3rem;
+    overflow: hidden;
+    border: none;
+    color: var(--light-1);
+    background: none;
+    position: relative;
+    padding-bottom: 2em;
+    cursor: pointer;
+}
+
+.footer-iconTop button > div,button > i {
+    position: absolute;
+    font-size: 2rem;
+    display: flex;
+}
+
+.footer-iconTop button:before {
+    content: "";
+    position: absolute;
+    height: .2vh;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    transform: scaleX(0);
+    transform-origin: bottom right;
+    background: currentColor;
+    transition: transform 0.25s ease-out;
+}
+
+.footer-iconTop button:hover:before {
+    transform: scaleX(1);
+    transform-origin: bottom left;
+}
+
+.footer-iconTop button .clone > *,button .text > * {
+    color: var(--font-color);
+    opacity: 1;
+    font-size: 1.3rem;
+    transition: 0.2s;
+    margin-left: .4rem;
+}
+
+.footer-iconTop button .clone > * {
+    transform: translateY(60px);
+}
+
+.footer-iconTop button:hover .clone > * {
+    opacity: 1;
+    transform: translateY(0px);
+    transition: all 0.2s cubic-bezier(0.215, 0.61, 0.355, 1) 0s;
+}
+
+.footer-iconTop button:hover .text > * {
+    opacity: 1;
+    transform: translateY(-60px);
+    transition: all 0.2s cubic-bezier(0.215, 0.61, 0.355, 1) 0s;
+}
+
+.footer-iconTop button:hover .clone > :nth-child(1) {
+    transition-delay: 0.15s;
+}
+
+.footer-iconTop button:hover .clone > :nth-child(2) {
+    transition-delay: 0.2s;
+}
+
+.footer-iconTop button:hover .clone > :nth-child(3) {
+    transition-delay: 0.25s;
+}
+
+.footer-iconTop button:hover .clone > :nth-child(4) {
+    transition-delay: 0.3s;
+}
+
+/* icon style and hover */
+
+.footer-iconTop button i {
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%) rotate(-50deg);
+    transition: 0.2s ease-out;
+}
+
+.footer-iconTop button:hover i {
+    transform: translateY(-50%) rotate(-90deg);
+}
+
+/* BREAKPOINTS */
+
+@media (max-width: 1200px) {
+    .footer-iconTop button i {
+        top: 35%;
+    }
+}
+
+@media (max-width: 450px) {
+    .footer-iconTop button i {
+        top: 30%;
+    }
+}
