@@ -1,8 +1,8 @@
-# Dark Triad | Portfolio Project
-Welcome to the Dark Triad! We are a group of aspiring web programmers dedicated to taking on exciting projects and enhancing our programming capabilities. This README is designed to provide an overview of our team, our goals, and guidelines for working together effectively. 
+# Dark Triad | Portfolio
+Welcome! We are the Dark Triad! We are a group of aspiring web programmers dedicated to taking on exciting projects and enhancing our programming capabilities. This README is designed to provide an overview of our team, our goals, and guidelines for working together effectively. 
 
 
-## Team Members
+## Team Members (MAWD-12)
 1. Raymond Agustin
 2. Michael Lopez
 3. Spencer Pislaan
