@@ -2,9 +2,9 @@
 >Welcome to the Dark Triad team! We are a group of talented web programmers based in the Philippines, dedicated to taking on exciting projects and enhancing our programming capabilities. This README is designed to provide an overview of our team, our goals, and guidelines for working together effectively.
 
 ## Team Members
-Raymond Agustin
-Michael Lopez
-Spencer Pislaan
+1. Raymond Agustin
+2. Michael Lopez
+3. Spencer Pislaan
 
 ## Project Accommodation
 We aim to accommodate a variety of web development projects, focusing on front-end and full-stack development. As a team, we can work on projects such as website
@@ -19,7 +19,7 @@ To ensure a smooth and productive collaboration, here are some guidelines for ou
 > Open to Ideas: Be open to feedback and suggestions from team members. We value creativity and problem-solving.
 
 ### Project Management
-Project Planning: Create detailed project plans, including timelines and milestones.
+> Project Planning: Create detailed project plans, including timelines and milestones.
 > Version Control: Use version control systems like Git to manage code changes.
 > Documentation: Maintain project documentation and update README files for each project.
 
