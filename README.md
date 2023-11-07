@@ -25,9 +25,9 @@ To ensure a smooth and productive collaboration, here are some guidelines for ou
 > Documentation: Maintain project documentation and update README files for each project.
 
 ### Coding Standards
-Consistent Coding Style: Follow a consistent coding style guide for clean and readable code.
-Testing: Write and conduct tests to ensure the quality of the code.
-Code Review: Participate in code reviews to help improve code quality.
+> Consistent Coding Style: Follow a consistent coding style guide for clean and readable code.
+> Testing: Write and conduct tests to ensure the quality of the code.
+> Code Review: Participate in code reviews to help improve code quality.
 
 ### Skill Enhancement
 > Learning and Sharing: Continuously learn new programming languages, frameworks, and technologies. Share your knowledge with the team.
