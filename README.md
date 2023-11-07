@@ -1,5 +1,5 @@
 # DarkTriad-Portfolio
-Welcome to the Dark Triad! We are a group of talented web programmers based in the Philippines, dedicated to taking on exciting projects and enhancing our programming capabilities. This README is designed to provide an overview of our team, our goals, and guidelines for working together effectively.
+Welcome to the Dark Triad! We are a group of aspiring web programmers dedicated to taking on exciting projects and enhancing our programming capabilities. This README is designed to provide an overview of our team, our goals, and guidelines for working together effectively. 
 
 
 ## Team Members
